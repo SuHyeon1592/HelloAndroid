@@ -1,0 +1,1 @@
+C:\Users\Victus\AndroidStudioProjects\test\sdk\build\intermediates\cxx\RelWithDebInfo\a15e5435\obj\x86
